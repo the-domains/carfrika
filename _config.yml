@@ -1,0 +1,28 @@
+name: Carfrika
+favicon: null
+layout_spectrum: 0.4244991443119943
+typography_spectrum: 0.6449941974133253
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.26870302273891866
+  lightness: 0.6945169898681343
+  saturation: 0.9771446825470775
+  rhythmicContrast: 0.06734599033370614
+purpose: []
