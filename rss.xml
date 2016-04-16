@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Carfrika]]></title>
+        <description><![CDATA[Carfrika]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 16 Apr 2016 21:15:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[DOC 4.Lauf (Title)]]></title>
+            <description><![CDATA[<article><h1>DOC 4.Lauf (Title)</h1><p>Am
+ 26.7.2014 fand der 4. Lauf der Dreckfahrer Offroad Challenge (DOC) in 
+Carfrika statt. Die Trophy-ähnliche Veranstaltung für Scale Crawler 
+wurde geprägt von hervorragendem Wetter, viel guter Laune und spannenden
+ Sektionen. 25 Fahrer nahmen mit ihren Fahrzeugen am Wettbewerb teil, 
+insgesamt tummelten sich auf dem Gelände gut 40 Fahrzeuge.</p></article>]]></description>
+            <link>undefineddoc-4lauf-title/index.html</link>
+            <guid isPermaLink="false">3a164166-3a3b-4e7d-830e-6f87b0606013</guid>
+            <pubDate>Sat, 16 Apr 2016 21:15:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
